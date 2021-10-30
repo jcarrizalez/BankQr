@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366535715297",
+    "project_id": "mybankqr",
+    "storage_bucket": "mybankqr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366535715297:android:a96dee3b29016f580e8aa0",
+        "android_client_info": {
+          "package_name": "com.mybankqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366535715297-b4jdh4n8sov078158ap9s5h6qvcj8j4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSlk51QnPJ6yipaYXvJDssTsldDnLadmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366535715297-b4jdh4n8sov078158ap9s5h6qvcj8j4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6394919654745152~9774341024"
+    }
+  ],
+  "configuration_version": "1"
+}
